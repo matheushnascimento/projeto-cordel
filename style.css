@@ -86,14 +86,14 @@ section.imagem > p {
 
 section#img01 {
 	background-position: right center;
-	background-image: url(../d012/imagens/background002.jpg);
+	background-image: url(imagens/background002.jpg);
 }
 
 
 
 section#img02 {
 	background-position: right center;
-	background-image: url(../d012/imagens/background001.jpg);
+	background-image: url(imagens/background001.jpg);
 }
 footer {
 	color: white;
